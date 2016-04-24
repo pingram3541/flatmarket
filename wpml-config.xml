@@ -1,0 +1,13 @@
+<wpml-config>
+    <admin-texts>
+        <key name="FLATMARKET_PANEL">
+            <key name="header_info_editor" />
+            <key name="header_info2_editor" />
+            <key name="footer_copyright_editor" />
+            <key name="shop_product_custom_tab_title" />
+            <key name="shop_product_custom_tab_text" />
+            <key name="sideblock_twitter_content" />
+            <key name="sideblock_custom_content" />
+        </key>
+    </admin-texts>
+</wpml-config>
